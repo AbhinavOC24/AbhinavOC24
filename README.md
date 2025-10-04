@@ -8,11 +8,11 @@
 
 ---
 
-I'm a **Full-Stack Developer** and **Web3 enthusiast** with a focus on building products that blend clean design, smooth user experience, and scalable engineering.  
+I’m a Full-Stack Developer and Web3 builder with an interest in creating social consumer apps with simple design and smooth user flows.
 
-Currently, I’m working on **agenda.fun** — experimenting with ways to make planning and collaboration more intuitive. I also enjoy building at **hackathons**, where rapid prototyping, collaboration, and creative problem-solving push me to learn faster and ship better.  
+Right now I’m working on agenda.fun, exploring better ways to handle planning and collaboration. I also enjoy building at hackathons.
 
-Beyond tech, I’m drawn to any form of **art** — from music and novels to manga and anime. These influences shape my perspective on design, storytelling, and how people connect with products.  
+I like pulling ideas and inspiration from art, music, manga, and anime—they influence how I approach design and product decisions.
 
 ---
 
