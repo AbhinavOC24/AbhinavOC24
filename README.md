@@ -10,7 +10,7 @@
 
 I’m a Full-Stack Developer and Web3 builder with an interest in creating social consumer apps with simple design and smooth user flows.
 
-Right now I’m working on agenda.fun, exploring better ways to handle planning and collaboration. I also enjoy building at hackathons.
+Exploring better ways to handle planning and collaboration. I also enjoy building at hackathons.
 
 I like pulling ideas and inspiration from art, music, manga, and anime—they influence how I approach design and product decisions.
 
