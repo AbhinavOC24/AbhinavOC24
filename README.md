@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi, I'm Abhinav Chauhan</h3>
+<h3 align="center">👋 Hey, I'm Abhinav Chauhan</h3>
 
 <p align="center">
   <a href="https://abhinav24.me">Website</a> •
@@ -8,9 +8,9 @@
 
 ---
 
-I’m a Full-Stack Developer and Web3 builder with an interest in creating social consumer apps with simple design and smooth user flows.
+Full-Stack Developer and Web3 builder with an interest in creating social consumer apps.
 
-Exploring better ways to handle planning and collaboration. I also enjoy building at hackathons.
+Exploring better ways to design systems and write better code. I also enjoy building at hackathons.
 
 I like pulling ideas and inspiration from art, music, manga, and anime—they influence how I approach design and product decisions.
 
