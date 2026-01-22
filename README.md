@@ -10,7 +10,7 @@
 
 Full-Stack Developer and Web3 builder with an interest in creating social consumer apps.
 
-Exploring better ways to design systems and write better code. I also enjoy building at hackathons.
+Exploring better ways to design systems and write better code.
 
 I like pulling ideas and inspiration from art, music, manga, and anime—they influence how I approach design and product decisions.
 
