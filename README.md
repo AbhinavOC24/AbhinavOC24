@@ -8,7 +8,7 @@
 
 ---
 
-Full-Stack Developer and Web3 builder with an interest in creating social consumer apps.
+Full-stack Web3 builder into system design and DeFi.
 
 Exploring better ways to design systems and write better code.
 
