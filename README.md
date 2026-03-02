@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hey, I'm Abhinav Chauhan</h3>
+<h3 align="center"> Hey, I'm Abhinav Chauhan</h3>
 
 <p align="center">
   <a href="https://abhinav24.me">Website</a> •
