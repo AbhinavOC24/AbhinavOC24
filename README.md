@@ -8,13 +8,15 @@
 
 ---
 
-Full-stack Web3 builder into system design and DeFi.
+Backend-focused developer working across the stack, with most of my interest in building reliable systems and clean APIs.
 
-Exploring better ways to design systems and write better code.
+I enjoy thinking about how things work under the hood — data flow, performance, and how to structure systems so they scale without becoming messy.
 
-I like pulling ideas and inspiration from art, music, manga, and anime—they influence how I approach design and product decisions.
+Lately, I’ve been reading about real-time systems, backend architecture, and deployment workflows.
+
+Outside of code, I take a lot of inspiration from art, music, manga, and anime - especially in how I think about design and product feel.
 
 ---
 
 - 🌐 Portfolio: [abhinav24.me](https://abhinav24.me)  
-- 📫 Reach me on [X](https://x.com/ThatPahadiKid) or [LinkedIn](https://www.linkedin.com/in/abhinav-chauhan-639936253/)  
+- 📫 Reach me on [X](https://x.com/ThatPahadiKid) or [LinkedIn](https://www.linkedin.com/in/abhinav-chauhan-639936253/)
