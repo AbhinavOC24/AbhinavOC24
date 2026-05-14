@@ -1,7 +1,6 @@
 <h3 align="center"> Hey, I'm Abhinav Chauhan</h3>
 
 <p align="center">
-  <a href="https://abhinav24.me">Website</a> •
   <a href="https://x.com/ThatPahadiKid">X</a> •
   <a href="https://www.linkedin.com/in/abhinav-chauhan-639936253/">LinkedIn</a>
 </p>
@@ -18,5 +17,4 @@ Outside of code, I take a lot of inspiration from art, music, manga, and anime -
 
 ---
 
-- 🌐 Portfolio: [abhinav24.me](https://abhinav24.me)  
 - 📫 Reach me on [X](https://x.com/ThatPahadiKid) or [LinkedIn](https://www.linkedin.com/in/abhinav-chauhan-639936253/)
